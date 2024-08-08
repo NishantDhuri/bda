@@ -1,3 +1,5 @@
+#Classification model
+
 import pandas as pd
 col_names = ['pregnant','glucose','bp','skin','insulin','bmi','pedigree','age','label']
 # Load Dataset
